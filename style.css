@@ -1,3 +1,71 @@
-body {
-    background: blue;
+.backgroundTeal {
+    background-color: #2b6777;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.container {
+    display: block;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.div-float {
+    float: flex;
+    width: 33%;
+    padding: 5%;
+}
+
+.div-flex {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.pText {
+    color: #D8D8D8;
+}
+
+h2 {
+    font-size: 54px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 28px;
+    color: #c8d8e4;
+}
+
+.lead {
+    font-size: 21px;
+    color: #D8D8D8;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+hr {
+    margin-top: 40px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    border-color: #D8D8D8;
+    opacity: 0.5;
+}
+
+.profileImg {
+    border-radius: 50%;
+    border: 10px solid #D8D8D8;
+    height: 246px;
+    width: 246px;
+}
+
+.second-block {
+    background-color:#c8d8e4;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
