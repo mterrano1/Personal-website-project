@@ -94,3 +94,63 @@ hr {
     padding-top: 20px;
 }
 
+.resume {
+    font-size: 40px;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 25% 50%;
+    grid-template-rows: 300px 300px;
+    border: 5px solid #ffffff;
+    border-radius: 1%;
+    margin-top: 200px;
+}
+
+.d1 {
+    padding: 30% 40%;
+}
+
+.d2 {}
+
+.d3 {
+    padding: 30% 40%;
+}
+
+.d4 {}
+
+.job {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 5px;
+}
+
+.company {
+    font-size: 22px;
+    color: #ffffff;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.time {
+    font-size: 18px;
+    color: #ffffff;
+    margin: 0px;
+    font-style: italic;
+}
+
+.job-description {
+    font-size: 18px;
+    color: #ffffff;
+    margin: 20px 0px;    
+}
+
+.clifton {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;    
+}
+
+li {
+    font-size: 18px;
+    color: #ffffff;    
+}
