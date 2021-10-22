@@ -154,3 +154,19 @@ li {
     font-size: 18px;
     color: #ffffff;    
 }
+
+.contact-grid {
+    font-size: 18px;
+    width: 100%;
+    background: #f2f2f2;
+    display: grid;
+    margin: 10% 0%;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+    padding: 2% 0%;
+    border: 5px solid #52ab98;
+}
+
+#teamImg {
+    text-align: center;
+}
